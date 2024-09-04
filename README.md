@@ -19,3 +19,7 @@ A projekthez hozzáadjuk a TS-t mint függőség
 tsconfig.json létrehozása
 
 `tsc --init`
+
+index.ts létrehozása, majd fordítása (tsc parancs) és a létrejövő JS fájl futtatása (node-al)
+
+`tsc && node index.js`
